@@ -1,0 +1,1 @@
+web: gunicorn vampirepapi.wsgi --log-file -
