@@ -1,1 +1,1 @@
-web: gunicorn vampirepapi.wsgi --log-file -
+web: gunicorn zaynify.wsgi --log-file -
