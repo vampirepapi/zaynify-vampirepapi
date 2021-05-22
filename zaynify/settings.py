@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'i_+ff9v@6p(vwvb3iq#p%*rvn4e#qw4n^o&_nmc=pt@3vd$^e4'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1','zaynify.herokuapp.com']
 
